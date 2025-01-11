@@ -1,4 +1,3 @@
-#include "C:/Users/user/source/repos/multiclient socket library/multiclient socket library/mSocket.h"
 //#include "stdafx.h"
 #pragma comment(lib, "Ws2_32.lib")
 #include <WinSock2.h>
